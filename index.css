@@ -56,6 +56,23 @@ margin: 0px;
       background-image: url(images/Frame\ 58.jpg);
       font-size: 30px;
       text-align: justify;
-     
+}
+#ex{
+      font-size: 40px;
+      color: rgb(24, 3, 64);
+      width: 400px;
+      padding-left: 600px;
+}
+.gallary{
       
+      border: 10px solid rgb(41, 2, 100);
+      border-radius: 10px;
+      box-shadow: 5px 5px 5px  rgb(109, 108, 108);
+     margin:30px;
+     float: left;
+     text-align: center;
+     font-size: 30px;
+     color: darkred;
+    padding: 10px;
+    padding-bottom: 30px;
 }
