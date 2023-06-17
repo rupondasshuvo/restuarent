@@ -3,9 +3,11 @@ body{
 font-family: 'Libre Baskerville', serif;
 font-family: 'Noto Sans', sans-serif;
 font-family: 'Roboto', sans-serif;
-padding: 50px;
+padding-top: 50px;
 margin: 0px;
 }
+
+
 .text-color{
       color: rgba(255, 166, 0, 0.826);
 }
@@ -26,22 +28,34 @@ margin: 0px;
       height: 700px;
       padding-left: 100px;      
 }
+#Healty{
+      
+      padding-left: 320px;
+      font-size: 40px;
+      color: rgb(6, 6, 56);
+      
+}
 
 #order{
       color:white;
       background-image: linear-gradient(rgb(98, 66, 8), tomato);
       text-decoration: none;
       border-radius: 10px;
-      font-size: 20px;
+      font-size: 25px;
       font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 
 .frist{
       display: flex;
+      padding-bottom: 300px;
 }
 
 .frist-two{
-      padding-top: 250px;
       display: flex;
+      background-image: url(images/Frame\ 58.jpg);
+      font-size: 30px;
+      text-align: justify;
+     
+      
 }
