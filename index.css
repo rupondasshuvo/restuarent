@@ -75,4 +75,22 @@ margin: 0px;
      color: darkred;
     padding: 10px;
     padding-bottom: 30px;
+
+}
+.info{
+      font-size: 40px;
+      border: 5px solid rgb(105, 48, 204);
+      border-radius: 4px;
+      background-color: antiquewhite;
+      width: 150px;
+      margin: 10px;
+      text-align: center;
+}
+.bodd{
+      display: flex;
+}
+footer{
+      color: rgb(150, 107, 20);
+      background-color: #000080;
+      padding-left: ;
 }
