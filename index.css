@@ -3,12 +3,29 @@ body{
 font-family: 'Libre Baskerville', serif;
 font-family: 'Noto Sans', sans-serif;
 font-family: 'Roboto', sans-serif;
+padding: 50px;
+margin: 0px;
 }
 .text-color{
       color: rgba(255, 166, 0, 0.826);
 }
+.border{
+      border: 5px solid;
+      text-align: center;
+      padding-top: 210px;
+}
+
 .font{
       font-size: 40px;
+
+}
+#photo{
+      width: 700px;
+      height: 700px;
+      padding-left: 100px;
+
+      
+      
 }
 .frist{
       display: flex;
